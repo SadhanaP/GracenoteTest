@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c1995d11b1eab1ce4c4da136a6797cdfc8d15075">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/classes-9521e6dbde27e7f23d6850dfecb19c4fd2956399.jar" />
+    </item>
+    <item
+        jar="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/classes-393e8c975fd986478f24e435af29675cc8a940db.jar" />
+    </item>
+    <item
+        jar="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/1.9.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d4f9c8eef6af6f5b470eeb39c8920fbd4603d17d">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/classes-8de0182555955df8b59e9f752fd93b1321735079.jar" />
+    </item>
+    <item
+        jar="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/classes-0d2f495bcbd90251a8777a18625bc9dd240e79fc.jar" />
+    </item>
+    <item
+        jar="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-13bb36faabc80f02546987aadc8179d9bbee62c5.jar" />
+    </item>
+    <item
+        jar="/Users/Saikrishna/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-97d2a9efe441f62ce9780e2f5c31fbdb11522002.jar" />
+    </item>
+    <item
+        jar="/Users/Saikrishna/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/retrofit-1.8.0-018b4d0dcf4d98c84baeb46107d5abd797fae577.jar" />
+    </item>
+    <item
+        jar="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fc82596d7f7683c8b3a7e5715a2ed5295c586887">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/classes-e6301733e5a28c380a5e280fac39af35fc169b10.jar" />
+    </item>
+    <item
+        jar="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/classes-15641882b34c783c79df6245328706fb17c2cc6c.jar" />
+    </item>
+    <item
+        jar="/Users/Saikrishna/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-90247bc3d9ac79c06eee236abbe424eee2bd0d3b.jar" />
+    </item>
+    <item
+        jar="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e504c8aa8ed7601393305cd968f62f73c7a6283d">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/classes-922184406507ae25610a1cd4aba482acf1ef22e3.jar" />
+    </item>
+    <item
+        jar="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9a5d96f1608afeee7845b2f5774a150e0b438f0">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/classes-d30550df9648ab3801a5408db203cc951e9335b5.jar" />
+    </item>
+    <item
+        jar="/Users/Saikrishna/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/twitter-text-1.13.0-a58e18cf2fa9577291786c7aa154f40ecfc29873.jar" />
+    </item>
+    <item
+        jar="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ec69f9e7e18a05a46b4fcaa69368b6d42fa6324">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/classes-3d3b52936a705a917b88b430d5da58c969511fe4.jar" />
+    </item>
+    <item
+        jar="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/classes-812e7535b239f074c15ad6325c3741931d1d948e.jar" />
+    </item>
+    <item
+        jar="/Users/Saikrishna/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/Saikrishna/Desktop/Backup/Gracenote/GracenoteTest/app/build/intermediates/pre-dexed/debug/gson-2.3-a76f31bcbce003120cc14d53ff8a098a8a5426eb.jar" />
+    </item>
+
+</items>

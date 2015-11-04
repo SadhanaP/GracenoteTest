@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GracenoteTest</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="viewBy">View By:</string>
+</resources>
